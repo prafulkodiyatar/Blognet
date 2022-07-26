@@ -1,8 +1,8 @@
 {
-  "name": "nodejs",
+  "name": "blognet",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "files.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
     "lodash": "^4.17.21",
-    "mongoose": "^6.0.12",
+    "mongoose": "^6.4.6",
     "morgan": "^1.10.0"
   }
 }
